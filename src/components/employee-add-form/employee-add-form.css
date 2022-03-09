@@ -1,9 +1,17 @@
-.app-info {
-    margin: 50px auto;
+.app-add-form {
+    margin-top: 30px;
     padding: 25px;
     background-color: rgb(100, 100, 255);
     border-radius: 4px;
     box-shadow: 15px 15px 30px rgba(0,0,0, .15);
     color: #fff;
-    text-align: center;
+}
+
+.add-form {
+    margin-top: 20px;
+}
+
+.add-form input {
+    width: 350px;
+    margin-right: 20px;
 }
